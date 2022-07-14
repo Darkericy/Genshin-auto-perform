@@ -1,0 +1,15 @@
+call of silence 
+63
+-H -E EV -EV --E --J BM -BM --H --Q NA NA NA 
+-HB -E EV -EV --E --U BM -BM --U --E NA NA NA
+-HC -E EV -EV --E --J  BM -BM --Q --G NA NA NA
+-G --D --G VN VN -BM -W --Q --W NS -NS --Q --H NA NA NA
++P
+-E -W -WV -Q -QV -T QB -BJ -Q N N N
+-E -W -WV -Q -VG -E WB -EB -Q N N N
+-E -W -WV -Q -QV -T -TB -T -EB -Q N N N
+-H -Q WV -WV -Q -WB -E -WB -W -N -Q N -N
+-Q -JB --D --H VN VN -BM -Q -JB --D --A NA NA -NA
+-Q -JB --D --H VN -VN --H --J BM -BM --W --Q NA NA -NA
+-Q -J --D --H V V -B -Q -J --D --A N N -N
+-Q -J --Q --W V -V --E --E B -B --Q --J N N N
