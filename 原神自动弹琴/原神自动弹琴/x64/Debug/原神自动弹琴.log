@@ -1,0 +1,9 @@
+﻿  File.cpp
+E:\github\Genshin-auto-perform\原神自动弹琴\原神自动弹琴\File.cpp(82,13): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+  Key.cpp
+E:\github\Genshin-auto-perform\原神自动弹琴\原神自动弹琴\Key.cpp(81,20): warning C4267: “-=”: 从“size_t”转换到“int”，可能丢失数据
+  源.cpp
+E:\github\Genshin-auto-perform\原神自动弹琴\原神自动弹琴\源.cpp(33,15): warning C4101: “e”: 未引用的局部变量
+E:\github\Genshin-auto-perform\原神自动弹琴\原神自动弹琴\源.cpp(36,23): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+  原神自动弹琴.vcxproj -> E:\github\Genshin-auto-perform\原神自动弹琴\x64\Debug\原神自动弹琴.exe
